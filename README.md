@@ -57,11 +57,3 @@ If the script fails to install a printer, check the following:
 ## Contributors
 
 - Github.com/Pozse
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
-
----
-
-This README provides an overview of what the batch script does, how to use it, and some basic troubleshooting tips. If there are additional details or modifications you'd like to see, please let me know!
